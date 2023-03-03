@@ -1,0 +1,2 @@
+gcc C_pthreads_test.c -o C_pthreads_test -lpthread -lm
+

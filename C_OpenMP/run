@@ -1,0 +1,2 @@
+gcc -fopenmp C_OpenMP.c -o C_OpenMP -lm
+

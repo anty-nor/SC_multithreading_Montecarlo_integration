@@ -1,0 +1,5 @@
+1000000 12.4     23.1      -107.58
+//num_samples
+//num_threads
+//lower_bound
+//upper_bound
